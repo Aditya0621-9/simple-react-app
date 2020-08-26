@@ -4,7 +4,7 @@ export class HelloWorld extends Component {
     render() {
         return (
             <div>
-                hello {this.props.name}
+                Hello {this.props.name}
             </div>
         )
     }
